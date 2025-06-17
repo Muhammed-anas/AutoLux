@@ -1,75 +1,74 @@
-🚘 Autolux – Vehicle Services Automation Platform (Python Django)
-Autolux is a smart, web-based platform built with Django, designed to digitize and streamline vehicle-related services. It replicates real-world e-commerce functionality tailored specifically for the automotive sector.
+---
+## 🚘 Autolux – Vehicle Services Automation Platform (Python Django)
 
-🚀 Project Overview
-Autolux offers a seamless experience for users to browse, order, and manage automotive products and services—all from a responsive, user-friendly interface.
+Welcome to **Autolux**, a smart, web-based platform built with **Django**, designed to digitize and streamline vehicle-related services. It replicates real-world e-commerce functionality tailored specifically for the automotive sector.
 
-🌟 Key Features
-✅ Product Catalog
-Clean, card-based UI showcasing various automobile-related products and services.
+🔗 **Live Demo:** [autolux-ntbk.onrender.com](https://autolux-ntbk.onrender.com/)
 
-💳 Secure Payment Gateway Integration
-Simulated payment processing with confirmation flow to mimic real-world transactions.
+---
+## 👋 Hi, I'm Muhammed Anas
 
-🧾 Automated Order Management
-Includes order placement, email confirmations, and status tracking.
+I'm a passionate full stack developer focused on building intelligent and scalable web applications. **Autolux** is a testament to my backend expertise in Django and my ability to simulate real-life systems for niche industries.
 
-🛠️ Admin Dashboard
-Role-based admin panel to manage products, update listings, and review order history.
+---
+## 🚀 Project Overview
 
-🔐 User Authentication System
-Separate access for customers and admins with secure login/register functionality.
+**Autolux** offers a seamless experience for users to browse, order, and manage automotive products and services—all from a responsive, user-friendly interface.
 
-🌐 Mobile-Responsive Design
-Fully responsive layout ensures smooth experience across devices.
+- ✅ Product Catalog with card-based UI
+- 💳 Simulated Payment Flow for checkout experience
+- 🧾 Automated Order Management with email confirmations
+- 🛠️ Admin Dashboard for role-based access and product management
+- 🔐 User Authentication System for customers and admins
+- 🌐 Mobile-Responsive Design with semantic HTML and CSS
 
-🧱 Tech Stack
-Backend:
-Django (Python)
+---
+## 🧱 Tech Stack
 
-SQLite (via Django ORM)
+### Backend
+- **Django** (Python)
+- **SQLite** (Django ORM)
 
-Frontend:
-HTML5, CSS3
+### Frontend
+- **HTML5**, **CSS3**
+- **Vanilla JavaScript**
 
-Vanilla JavaScript
+### Tools
+- Django Admin & Email Utilities
+- Git & GitHub for version control
 
-Tools:
-Git & GitHub for version control
+---
+## 🧠 Features in Development
 
-Django Admin & Email utilities
+- 📦 Inventory tracking per product
+- 💳 Payment integration with Stripe or Razorpay
+- 📊 Sales analytics for admins
+- 🔍 Search & filtering for services
 
-🔗 Live Demo
-Coming Soon
+---
+## 📚 My Broader Skills
 
-🧠 Features in Development
-📦 Inventory tracking per product
+- **Languages:** Python, JavaScript, TypeScript, Java, SQL, HTML, CSS  
+- **Web Development:** Django, Flask, React, Bootstrap  
+- **AI Tools:** scikit-learn, TensorFlow, HuggingFace  
+- **Databases:** MongoDB, PostgreSQL, SQLite  
+- **Tools:** Git, VS Code, Postman, Netlify, GitHub
 
-💳 Payment integration with Stripe or Razorpay
+---
+## 💼 Other Projects
 
-📊 Sales analytics for admins
+- 🛍️ **Shopfy** – Full Stack eCommerce App (MERN)
+- 🤖 **GalaxNova** – AI Chatbot with NLP
+- 📝 **Bloggy** – Django-Based Blog Platform  
+- 💻 **Responsive Developer Portfolio**
 
-🔍 Search & filtering options for services
+---
+## 💬 Let's Connect
 
-📚 My Broader Skills
-Languages: Python, JavaScript, TypeScript, Java, SQL, HTML, CSS
-Web Dev: Django, Flask, React, Bootstrap
-AI Tools: scikit-learn, TensorFlow, HuggingFace
-Databases: MongoDB, PostgreSQL, SQLite
-Tools: Git, VS Code, Postman, Netlify, GitHub
+Want to collaborate or discuss ideas? Feel free to reach out!
 
-💼 Other Projects
-🛍️ Shopfy – Full Stack eCommerce App (MERN)
+- 📧 **Email:** muhammedanas6282@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/muhammedanas](https://www.linkedin.com/in/muhammedanas)  
+- 🐙 **GitHub:** [github.com/Muhammed-anas](https://github.com/Muhammed-anas)
 
-🤖 GalaxNova – AI Chatbot with NLP
-
-📝 Bloggy – Django-Based Blog Platform
-
-🎬 AI Movie Recommender – Powered by TMDb API
-
-💻 Responsive Developer Portfolio
-
-💬 Let’s Connect
-📧 Email: muhammedanas6282@gmail.com
-🔗 LinkedIn: linkedin.com/in/muhammedanas
-🐙 GitHub: github.com/Muhammed-anas
+---
