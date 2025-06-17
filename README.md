@@ -57,10 +57,11 @@ I'm a passionate full stack developer focused on building intelligent and scalab
 ---
 ## 💼 Other Projects
 
-- 🛍️ **Shopfy** – Full Stack eCommerce App (MERN)
-- 🤖 **GalaxNova** – AI Chatbot with NLP
-- 📝 **Bloggy** – Django-Based Blog Platform  
-- 💻 **Responsive Developer Portfolio**
+- 🛍️ **[Shopfy](https://shopfy-ncx.netlify.app/)** – Full stack MERN-based eCommerce platform with multi-step checkout  
+- 🤖 **[GalaxNova](https://galaxnova.netlify.app/)** – AI-themed chatbot interface built with React + Tailwind CSS    
+- 📝 **[Bloggy](https://bloggy-4xrs.onrender.com)** – Django-based blogging platform with image uploads and post management  
+
+> Explore more on my [GitHub profile](https://github.com/Muhammed-anas)
 
 ---
 ## 💬 Let's Connect
