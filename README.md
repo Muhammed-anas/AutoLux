@@ -1,93 +1,74 @@
-# 📝 Bloggy – Full Stack Blogging Platform (Python Django)
+---
+## 🚘 Autolux – Vehicle Services Automation Platform (Python Django)
 
-**Bloggy** is a clean, modern, and fully responsive full stack blogging platform built using **Python Django**. It allows users to explore blog posts, manage content via an admin panel, and experience smooth reading across devices.
+Welcome to **Autolux**, a smart, web-based platform built with **Django**, designed to digitize and streamline vehicle-related services. It replicates real-world e-commerce functionality tailored specifically for the automotive sector.
 
-🔗 **Live Demo:** [bloggy-4xrs.onrender.com](https://bloggy-4xrs.onrender.com)
+🔗 **Live Demo:** [autolux-ntbk.onrender.com](https://autolux-ntbk.onrender.com/)
 
 ---
+## 👋 Hi, I'm Muhammed Anas
 
+I'm a passionate full stack developer focused on building intelligent and scalable web applications. **Autolux** is a testament to my backend expertise in Django and my ability to simulate real-life systems for niche industries.
+
+---
 ## 🚀 Project Overview
 
-This project highlights my backend expertise using Django and frontend design skills with Bootstrap and Jinja2. Bloggy is built for performance, readability, and ease of content management — ideal for writers, developers, or personal blogging.
+**Autolux** offers a seamless experience for users to browse, order, and manage automotive products and services—all from a responsive, user-friendly interface.
+
+- ✅ Product Catalog with card-based UI
+- 💳 Simulated Payment Flow for checkout experience
+- 🧾 Automated Order Management with email confirmations
+- 🛠️ Admin Dashboard for role-based access and product management
+- 🔐 User Authentication System for customers and admins
+- 🌐 Mobile-Responsive Design with semantic HTML and CSS
 
 ---
-
-## 🌟 Core Features
-
-✅ **Post Management**  
-Admins can create, update, and delete blog posts with a user-friendly backend interface.
-
-✅ **Image Upload Support**  
-Posts can include images via Django’s media handling system.
-
-✅ **Post Preview Cards**  
-Clean blog previews on the homepage with thumbnail, title, and publish date.
-
-✅ **Full Post View**  
-Clicking a post opens a detailed view with full content and metadata.
-
-✅ **Responsive Design**  
-Mobile-first UI using Bootstrap ensures a smooth experience on all screen sizes.
-
-✅ **Static Pages**  
-Includes About, Contact, and other custom pages for better user engagement.
-
----
-
 ## 🧱 Tech Stack
 
 ### Backend
-- Python & Django
-- SQLite (via Django ORM)
-- Django Admin & Forms
+- **Django** (Python)
+- **SQLite** (Django ORM)
 
 ### Frontend
-- HTML5, CSS3
-- Bootstrap
-- Jinja2 Templating Engine
+- **HTML5**, **CSS3**
+- **Vanilla JavaScript**
 
-### Tools & Deployment
-- Git & GitHub
-- Render (for hosting)
-- Django Media/Static handling
+### Tools
+- Django Admin & Email Utilities
+- Git & GitHub for version control
 
 ---
-
 ## 🧠 Features in Development
 
-- 🔐 User authentication for authors  
-- 💬 Commenting system  
-- 🏷️ Tag-based filtering and categorization  
-- 🔍 Blog search functionality
+- 📦 Inventory tracking per product
+- 💳 Payment integration with Stripe or Razorpay
+- 📊 Sales analytics for admins
+- 🔍 Search & filtering for services
 
 ---
-
 ## 📚 My Broader Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Java, SQL, HTML, CSS  
 - **Web Development:** Django, Flask, React, Bootstrap  
-- **AI Tools:** TensorFlow, scikit-learn, HuggingFace, OpenCV  
-- **Databases:** MongoDB, SQLite, PostgreSQL  
+- **AI Tools:** scikit-learn, TensorFlow, HuggingFace  
+- **Databases:** MongoDB, PostgreSQL, SQLite  
 - **Tools:** Git, VS Code, Postman, Netlify, GitHub
 
 ---
-
 ## 💼 Other Projects
-
 - 🛍️ **[Shopfy](https://shopfy-ncx.netlify.app/)** – Full stack MERN-based eCommerce platform with multi-step checkout  
-- 🤖 **[GalaxNova](https://galaxnova.netlify.app/)** – AI-themed chatbot interface built with React + Tailwind CSS    
+- 🤖 **[GalaxNova](https://galaxnova.netlify.app/)** – AI-themed chatbot interface built with React + Tailwind CSS  
 - 📝 **[Bloggy](https://bloggy-4xrs.onrender.com)** – Django-based blogging platform with image uploads and post management  
 
 > Explore more on my [GitHub profile](https://github.com/Muhammed-anas)
 
 ---
+## 💬 Let's Connect
 
-## 💬 Let’s Connect
+Want to collaborate or discuss ideas? Feel free to reach out!
 
-Interested in blogging platforms, Django development, or collaborating on a project?
-
-- 📧 Email: **muhammedanas6282@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/muhammed-anas-ma)  
-- 🐙 [GitHub](https://github.com/Muhammed-anas)
+- 📧 **Email:** muhammedanas6282@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/muhammedanas](https://www.linkedin.com/in/muhammedanas)  
+- 🐙 **GitHub:** [github.com/Muhammed-anas](https://github.com/Muhammed-anas)
 
 ---
